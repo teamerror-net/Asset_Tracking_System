@@ -4,7 +4,7 @@
 
 Mac Command: source venv/bin/activate
 
-# Complete makemigrations and migratte
+# Complete makemigrations and migrate
 
 python3 manage.py makemigrations
 
